@@ -31,7 +31,7 @@ This simple batch script allows you to remind lunch time on your working hours.
   </Triggers>
   ```
 
-* After configuring the `Lunch Time.xml` file 
+* After configuring the `Lunch Time.xml` file, run the `import-task.cmd` as administrator.
 * `Lunch Time.xml` file is a configuration file for Task Scheduler.
 * If you encounter any issues, you can manualy import the `Lunch Time.xml` file by clicking the `/Task Scheduler shortcut/Task Scheduler.lnk`.
   
