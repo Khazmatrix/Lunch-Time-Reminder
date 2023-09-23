@@ -1,4 +1,4 @@
-## Lunch time reminder
+## Lunch Time Reminder
 
 <p allign="center"><img src="./screenshot/pop-up.png"></p>
 
