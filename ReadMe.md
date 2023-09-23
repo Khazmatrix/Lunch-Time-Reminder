@@ -1,6 +1,6 @@
 ## Lunch time reminder
 
-This batch script allows you to remind lunch time on your working hours.
+This simple batch script allows you to remind lunch time on your working hours.
 
 ## How to Install
 
