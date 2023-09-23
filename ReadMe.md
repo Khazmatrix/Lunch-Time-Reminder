@@ -1,6 +1,6 @@
 ## Lunch Time Reminder
 
-<p allign="center"><img src="./screenshot/pop-up.png"></p>
+<p allign="center"><img src="./screenshot/pop-up.jpg"></p>
 
 This simple batch script allows you to remind lunch time on your working hours.
 
