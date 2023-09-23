@@ -26,7 +26,7 @@ echo                                         Computer Name: %COMPUTERNAME%
 echo.
 echo.
 echo.
-echo                                         Created by Linkage IT
+echo                                         Created by Khazmatrix
 echo.
 echo.
 @echo off
