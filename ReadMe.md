@@ -8,8 +8,8 @@ This simple batch script allows you to remind lunch time on your working hours.
 
 * Download all files and run as administrator the `Install.cmd`.
 * The `import-task.cmd` file allows you to make a Windows Task Scheduler automatically on your desired specific time.
-  To change specific time, you must open the `Lunch Time.xml` from any text editor and edit the time thru the lines below;
-  the default time is `12:30:00`, and the default days are `Monday to Saturday`.
+  To change specific time, you must open the `Lunch Time.xml` from any text editor and edit the time.
+* The default time is `12:30:00`, and the default days are `Monday to Saturday`. See the lines below;
   
   ```ini
     <Triggers>
